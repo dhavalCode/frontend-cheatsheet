@@ -71,6 +71,11 @@
 - http://www.cheat-sheets.org/
 - https://cheatsheets.shecodes.io/
 - https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet
+- https://www.git-tower.com/learn/cheat-sheets/html
+- https://www.git-tower.com/learn/cheat-sheets/hugo
+- https://www.git-tower.com/learn/cheat-sheets/javascript
+- https://www.git-tower.com/learn/cheat-sheets/markdown
+- https://www.git-tower.com/learn/cheat-sheets/website-optimization
 
 ## 🏁 Web Development References:
 
